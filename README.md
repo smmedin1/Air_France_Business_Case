@@ -1,2 +1,2 @@
 # Air_France_Business_Case
-Conducted analysis and business insight  and recommendations for Air France and their marketing tactics within a specific region. 
+Conducted analysis, business insight,  and recommendations for Air France and their marketing tactics within a specific region. We looked at Air France's internet marketing strategies and determined future search engine marketing campaigns. By analyzing search engine choices to see whether different consumer segments were being attracted,  unique purchase patterns and consumer behavior from SEM campaigns were seen. Patterns seen in keywords helped explain most or least popular choices and were identified to adjust campaign tactics accordingly to help improve campaign performance.
